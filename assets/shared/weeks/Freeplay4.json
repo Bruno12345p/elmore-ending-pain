@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "C mononise",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"behind-old",
+			"mononise",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "circleguy",
+	"hiddenUntilUnlocked": false
+}
